@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://abto.app"><b>Website</b></a> ·
-  <a href="https://docs.abto.app"><b>Docs</b></a> ·
+  <a href="https://abto.app"><b>앱토 홈페이지</b></a> ·
+  <a href="https://docs.abto.app"><b>앱토 가이드 문서</b></a> ·
   <a href="https://github.com/greedy-co/abto-sdk"><b>SDK</b></a> ·
-  <a href="https://blog.naver.com/abtoapp"><b>Blog</b></a> ·
+  <a href="https://blog.naver.com/abtoapp"><b>앱토 블로그</b></a> ·
   <a href="https://www.linkedin.com/company/abto-app/"><b>LinkedIn</b></a>
 </p>
 
@@ -71,7 +71,7 @@ Claude Code나 Codex를 쓴다면 [ABTO Skill](https://github.com/greedy-co/abto
 | Android / Kotlin | 이벤트 수집 (Event SDK) | `implementation("app.abto:abto-app:1.1.0")` |
 | iOS / macOS | 이벤트 수집 (Event SDK) | Swift Package Manager |
 
-설치와 API 가이드: **[docs.abto.app](https://docs.abto.app)**
+설치와 API 가이드: **[앱토 가이드 문서 (docs.abto.app)](https://docs.abto.app)**
 
 ## 소식
 
@@ -93,4 +93,4 @@ Start free at [abto.app](https://abto.app) · Docs at [docs.abto.app](https://do
 
 </details>
 
-<p align="center"><sub>무료로 시작하기 → <a href="https://abto.app">abto.app</a> · 문의 <a href="mailto:contact@abto.app">contact@abto.app</a></sub></p>
+<p align="center"><sub>앱토 무료로 시작하기 → <a href="https://abto.app">abto.app</a> · 문의 <a href="mailto:contact@abto.app">contact@abto.app</a></sub></p>
